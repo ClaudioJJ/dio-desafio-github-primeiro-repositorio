@@ -1,0 +1,6 @@
+Passos para trazer o repositório para a máquina local e jogar o repositorio de volta para o remoto no GIT BASH
+1 - git clone + link do repositório (Dentro da pasta que vai ficar o repositório)
+2 - git status ( verifica o status das pastas)
+3 - git add . (Adiciona os arquivos no controle de versão local)
+- git commit -m "Inclusão das anotações do curso de Git/GitHub" (Preara o envio pro servidor remoto do Git)
+4 git push origin main (Envia o repositório para o servidor remotodo do git)
